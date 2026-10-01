@@ -1,32 +1,39 @@
 # Fertilized Farmlands [2F]
 
-by _gingermat_
+by *gingermat*
 
-> the mod was born because i was looking for a mod compatible with my version of minecraft, but there wasn't a decent one
+> This mod was created because I was looking for a mod compatible with my version of Minecraft, but couldn't find a suitable one.
 
-[Modrinth](https://modrinth.com/project/fertilized-farmlands-2f) · [Issues](https://github.com/gingermat24/Fertilized-Farmlands-2F/issues)
+> **Modrinth is the recommended source for downloads**, as releases are published there first and more frequently.
 
----
-
-Farmland stays at maximum moisture, so crops remain irrigated without nearby water. Newly tilled farmland starts fully moist, and existing farmland is restored on its next moisture tick. Crop growth and trampling are unchanged.
-
-Install the Fabric mod on the server; it also works in singleplayer. Fabric API is not required.
-
-```
-Supported Minecraft versions: 1.21.x and 26.1–26.3.
-```
+[Modrinth](https://modrinth.com/project/fertilized-farmlands-2f) · [GitHub Issues](https://github.com/gingermat24/Fertilized-Farmlands-2F/issues) · [GitHub Releases](https://github.com/gingermat24/Fertilized-Farmlands-2F/releases)
 
 ---
 
-## Downloads
+Farmland stays at maximum moisture, allowing crops to remain irrigated without nearby water. Newly tilled farmland starts fully moist, while existing farmland is restored to full moisture on its next moisture tick.
 
-| Minecraft | Download |
-| --- | --- |
-| 1.21.x | [fertilized-farmland-1.21.x-1.0.0.jar](dist/fertilized-farmland-1.21.x-1.0.0.jar) |
-| 26.1–26.3 | [fertilized-farmland-26.x-1.0.0.jar](dist/fertilized-farmland-26.x-1.0.0.jar) |
+Crop growth and trampling behavior are unchanged.
+
+### Installation
+
+Install the Fabric mod on the server. It also works in singleplayer.
+
+**Fabric API is not required.**
+
+```text
+Supported Minecraft versions: 1.21.x and 26.1–26.3
+```
 
 ---
 
 ## Issues
 
-Report bugs or compatibility problems on the [GitHub Issues page](https://github.com/gingermat24/Fertilized-Farmlands-2F/issues). Include your Minecraft version, Fabric Loader version, and a description of what happened.
+Report bugs or compatibility problems on the [GitHub Issues page](https://github.com/gingermat24/Fertilized-Farmlands-2F/issues).
+
+When reporting an issue, include:
+
+* Your Minecraft version
+* Your Fabric Loader version
+* A description of the issue
+* Steps to reproduce the issue, if applicable
+* Any relevant error messages or logs
