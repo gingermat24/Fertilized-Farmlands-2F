@@ -4,7 +4,7 @@ by _gingermat_
 
 > the mod was born because i was looking for a mod compatible with my version of minecraft, but there wasn't a decent one
 
-[Modrinth](https://modrinth.com/project/fertilized-farmlands-2f) · [Wiki](https://github.com/gingermat24/Fertilized-Farmlands-2F/wiki) · [Issues](https://github.com/gingermat24/Fertilized-Farmlands-2F/issues)
+[Modrinth](https://modrinth.com/project/fertilized-farmlands-2f) · [Issues](https://github.com/gingermat24/Fertilized-Farmlands-2F/issues)
 
 ---
 
